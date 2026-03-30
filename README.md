@@ -26,7 +26,7 @@ Forge is an AI-powered command-line coding assistant built for ITCS 4681 Senior 
 ### Install
 
 ```bash
-git clone https://github.com/your-username/forge.git
+git clone https://github.com/asingh38-oss/Forge-CLI.git
 cd forge
 python -m venv .venv
 .venv\Scripts\activate      # Windows
