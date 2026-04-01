@@ -172,4 +172,4 @@ looks more like real docs, retrieval quality is noticeably better.
 
 ## Team
 
-Built by [your team names] for ITCS 4681 Senior Design, Spring 2026.
+Built by **Aditya Singh, Darell Isaac Sam, Maddy Pham, Matthew D'Allura, Samir Abukar** for ITCS 4681 Senior Design, Spring 2026.
