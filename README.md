@@ -6,7 +6,7 @@ Forge is an AI-powered command-line coding assistant built for ITCS 4681 Senior 
 
 ## Demo
 
-🎬 **[Watch the Forge CLI Demo on YouTube](https://www.youtube.com/watch?v=cd4lckUfzis)**
+🎬 **[Watch the Forge CLI Demo on YouTube]([https://www.youtube.com/watch?v=cd4IckUfzis])**
 
 ---
 
